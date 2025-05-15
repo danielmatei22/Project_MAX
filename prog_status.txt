@@ -1,7 +1,0 @@
-function prog(a, b) {
-
-    var chord = a;
-    var genre = b;
-    
-    outlet(0, "You have the chord: " + chord + " and the genre: " + genre);
-}
